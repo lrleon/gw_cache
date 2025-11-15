@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	models "github.com/lrleon/gateway_cache/v2/models"
+	models "github.com/lrleon/gw_cache/models"
 	mock "github.com/stretchr/testify/mock"
 )
 

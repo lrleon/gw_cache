@@ -11,8 +11,8 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/lrleon/gateway_cache/v2/models"
-	"github.com/lrleon/gateway_cache/v2/reporter"
+	"github.com/lrleon/gw_cache/models"
+	"github.com/lrleon/gw_cache/reporter"
 )
 
 // Metrics defines the interface for cache metrics.

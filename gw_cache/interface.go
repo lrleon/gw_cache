@@ -3,7 +3,7 @@ package gw_cache
 import (
 	"encoding/json"
 
-	"github.com/lrleon/gateway_cache/v2/models"
+	"github.com/lrleon/gw_cache/models"
 )
 
 // ProcessorI is the interface used to map the key and get the value in case it is missing.

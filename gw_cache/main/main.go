@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	gw_cache "github.com/lrleon/gateway_cache/v2"
-	"github.com/lrleon/gateway_cache/v2/models"
+	gw_cache "github.com/lrleon/gw_cache"
+	"github.com/lrleon/gw_cache/models"
 )
 
 type Processor struct {
